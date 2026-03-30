@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://docs.aethelred.io"><img src="https://img.shields.io/badge/live_docs-docs.aethelred.io-orange?style=flat-square" alt="Live Docs"></a>
-  <a href="https://github.com/AethelredFoundation/aethelred-docs/actions"><img src="https://img.shields.io/github/actions/workflow/status/AethelredFoundation/aethelred-docs/docs-ci.yml?branch=main&style=flat-square&label=Build" alt="Build"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square" alt="License"></a>
 </p>
 

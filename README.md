@@ -5,8 +5,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/aethelred-foundation/aethelred-docs/actions/workflows/repo-security-baseline.yml"><img src="https://img.shields.io/github/actions/workflow/status/aethelred-foundation/aethelred-docs/repo-security-baseline.yml?branch=main&style=flat-square&label=Security" alt="Security"></a>
+  <a href="https://github.com/aethelred-foundation/aethelred-docs/actions/workflows/docs-hygiene.yml"><img src="https://img.shields.io/github/actions/workflow/status/aethelred-foundation/aethelred-docs/docs-hygiene.yml?branch=main&style=flat-square&label=Docs+Hygiene" alt="Docs Hygiene"></a>
   <a href="https://docs.aethelred.io"><img src="https://img.shields.io/badge/live_docs-docs.aethelred.io-orange?style=flat-square" alt="Live Docs"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square" alt="License"></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cosmos_SDK-v0.50-2E3148?style=flat-square" alt="Cosmos SDK">
+  <img src="https://img.shields.io/badge/CometBFT-v0.38-blue?style=flat-square" alt="CometBFT">
+  <img src="https://img.shields.io/badge/PoUW-Verifiable_AI-green?style=flat-square" alt="PoUW">
 </p>
 
 ---
